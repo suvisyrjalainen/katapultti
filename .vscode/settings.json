@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "kesaleiri_2025_unity_katapultti.sln"
+    "dotnet.defaultSolution": "kesaleiri_katapultti_uusi.sln"
 }
